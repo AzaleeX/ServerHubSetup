@@ -35,19 +35,15 @@ ServerHubSetup simplifies the setup and customization of server hub environments
 
 - Modify the configuration file (`config.yml`) to tailor the hub environment to your preferences.
 
-## 🤝 Contributing
-
-We welcome contributions! Please check our [Contribution Guidelines](link_to_contribution_guidelines) before contributing.
-
 ## 📝 License
 
 This project is licensed under the [Apache License 2.0](https://github.com/AzaleeX/ServerHubSetup/blob/stable/LICENSE) - see the [LICENSE](https://github.com/AzaleeX/ServerHubSetup/blob/stable/LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 
-- [Symply](link_to_symply)
+- [Symply](https://symplymc.com)
   > Use of Symply, which is a fork of Pocketmine-MP but with some pretty cool additions
-- [Map](link_to_map)
+- [Map]()
   > Found on the internet
 
 ## 📧 Contact
